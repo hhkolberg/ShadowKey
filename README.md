@@ -17,7 +17,11 @@
 ## Expanded Capabilities:
 
 **Input Validation:** Gatekeeper's Grimoire respects the sanctity of your inputs, validating URLs and file paths with the scrupulousness of a seasoned sage to ensure that only the worthy pass through.
+
 **Advanced Error Handling:** In the chaos of cyber combat, errors are inevitable. But with the Grimoire, they are but mere whispers easily quelled. Its enhanced error-handling capabilities manage failure scenarios with grace, turning potential catastrophes into mere hiccups on the road to digital security.
+
 **Payload Library:** At your fingertips lies a library of common payloads, a compendium of knowledge gleaned from battles past, ready to test and challenge the myriad vulnerabilities that threaten the realm.
+
 **Interactive Shell:** Navigate the intricacies of the Grimoire with an Interactive Shell that heeds your command, simplifying the complexity of its vast capabilities into a seamless dance of clicks and keystrokes.
+
 **Logging and Reporting:** Every action, every discovery, is etched into the annals of the Grimoire. Its comprehensive logging and reporting features not only track the outcomes but forge them into a narrative of your continued vigilance and evolving defenses.
