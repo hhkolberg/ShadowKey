@@ -42,8 +42,7 @@ ShadowKey is not just a tool; it's a comprehensive suite designed for the meticu
 
 # Mapping
 
-`'sdfsfd`
-ShadowKey/
+`ShadowKey/
 │
 ├── main.py
 ├── upload_vulnerability_scanner/
@@ -59,7 +58,8 @@ ShadowKey/
 │   └── report_output.py
 └── utils/
     ├── __init__.py
-    └── common_utilities.py
+    └── common_utilities.py`
+
 '
 -------------
 
