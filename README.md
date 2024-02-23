@@ -2,41 +2,21 @@
 
 *Currently under developement.
 
-## Core Features:
+# ShadowKey: Advanced Upload Vulnerability Scanner
 
-**Basic Upload Vulnerability Assessment:**
-ShadowKey stands guard with a critical eye for upload vulnerabilities. It diligently tests your applications by uploading a variety of file types, identifying whether your system effectively sanitizes input and restricts unauthorized file types.
+*ShadowKey is stronk cybersecurity tool designed to identify, exploit, and report upload vulnerabilities in web applications. By simulating a range of attack vectors and assessing file upload functionalities, ShadowKey aims to fortify your digital defenses, providing a comprehensive overview of potential security risks.*
 
-**Exploit Discovery and Execution:**
-Upon detecting vulnerabilities, ShadowKey swings into action, exploiting them with precision. It uploads malicious files to test the system's response, helping you understand the real-world implications and shore up your defenses accordingly.
+## Core Features
 
-**Automated Reconnaissance:**
-ShadowKey offers comprehensive automated scanning that methodically examines multiple endpoints and web forms. This relentless pursuit ensures thorough coverage and peace of mind.
+**Basic Upload Vulnerability Assessment:** Leverages advanced scanning techniques to identify how an application handles various file uploads, pinpointing weaknesses in input sanitization and file type restriction mechanisms.
 
-**Custom Payload Deployment:**
-Tailor your security testing with ShadowKey by specifying custom payloads. This feature allows for personalized assessments, matching the unique demands of your security landscape.
+**Exploit Discovery and Execution:** Engages detected vulnerabilities with tailored exploits, testing the application's resilience against unauthorized file uploads and executing code to demonstrate impact.
 
-**In-Depth Reporting:**
-With ShadowKey, knowledge is power. Detailed reports on vulnerabilities and exploits provide you with actionable insights, enabling informed decision-making and strengthened security protocols.
+**Automated Reconnaissance:** Employs a robust scanning engine to automatically detect all upload points within a target application, including hidden forms and endpoints, ensuring no path is left unchecked.
 
-## Expanded Capabilities:
+**Custom Payload Deployment:** Offers the flexibility to deploy custom payloads, enabling targeted testing against specific vulnerabilities or system configurations.
 
-**Input Validation:**
-ShadowKey ensures that all inputs, including URLs and file paths, are valid, reducing the risk of errors and enhancing overall security posture.
-
-**Advanced Error Handling:**
-ShadowKey is equipped with sophisticated error handling to manage unexpected failure scenarios smoothly, maintaining system stability and reliability.
-
-**Payload Library:**
-Access a curated library of common payloads, providing a robust foundation for testing a wide array of vulnerabilities efficiently and effectively.
-
-**Interactive Shell:**
-The tool's interactive shell interface allows for ease of use, making navigation and operation intuitive for users of all skill levels.
-
-**Logging and Reporting:**
-ShadowKey's logging and reporting capabilities record all activities, providing a transparent and chronological account of security testing, outcomes, and progress.
-
-ShadowKey is not just a tool; it's a comprehensive suite designed for the meticulous and professional assessment of your digital defenses. With its robust features and user-friendly interface, ShadowKey is an indispensable ally in the ongoing battle for cybersecurity.
+**In-Depth Reporting:** Generates detailed reports outlining discovered vulnerabilities, executed exploits, and recommended mitigation strategies, facilitating informed decision-making and prioritized remediation efforts.
 
 ----------------
 
