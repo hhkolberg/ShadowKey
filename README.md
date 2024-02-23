@@ -37,3 +37,29 @@ The tool's interactive shell interface allows for ease of use, making navigation
 ShadowKey's logging and reporting capabilities record all activities, providing a transparent and chronological account of security testing, outcomes, and progress.
 
 ShadowKey is not just a tool; it's a comprehensive suite designed for the meticulous and professional assessment of your digital defenses. With its robust features and user-friendly interface, ShadowKey is an indispensable ally in the ongoing battle for cybersecurity.
+
+----------------
+
+# Mapping
+
+ShadowKey/
+│
+├── main.py
+├── upload_vulnerability_scanner/
+│   ├── __init__.py
+│   ├── file_upload_tests.py
+│   ├── file_type_checks.py
+│   └── form_scanner.py
+├── exploit_tools/
+│   ├── __init__.py
+│   └── exploit_uploader.py
+├── report_generator/
+│   ├── __init__.py
+│   └── report_output.py
+└── utils/
+    ├── __init__.py
+    └── common_utilities.py
+
+-------------
+
+
