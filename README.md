@@ -62,8 +62,14 @@ ShadowKey/
     └── common_utilities.py
 ```
 
+- Upload Vulnerability Scanner: This module contains all functionalities related to scanning and assessing upload points and vulnerabilities. It's crucial for initial reconnaissance and understanding the scope of potential vulnerabilities.
 
-'
+- Exploit Tools: Separate module for actively exploiting vulnerabilities. Keeping exploit tools separate helps organize your tool's offensive capabilities distinctly from scanning and reporting functionalities.
+
+- Report Generator: Dedicated to generating comprehensive reports based on the findings from scans and exploits. This modularity allows for flexible report generation that can be tailored as per user needs.
+
+- Utils: Common utilities module to avoid code duplication and provide shared functionalities across the tool.
+
 -------------
 
 
