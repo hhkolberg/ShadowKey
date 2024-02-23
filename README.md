@@ -42,7 +42,7 @@ ShadowKey is not just a tool; it's a comprehensive suite designed for the meticu
 
 # Mapping
 
-`
+```
 ShadowKey/
 │
 ├── main.py
@@ -60,7 +60,8 @@ ShadowKey/
 └── utils/
     ├── __init__.py
     └── common_utilities.py
-`
+```
+
 
 '
 -------------
